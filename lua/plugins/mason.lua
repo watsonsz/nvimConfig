@@ -30,7 +30,7 @@ return
         capabilities = capabilities
         })
 
-      lspconfig.c_sharp.setup({
+      lspconfig.csharp_ls.setup({
          vim.lsp.buf.format{timeout = 2000}, 
         capabilities = capabilities
         })
