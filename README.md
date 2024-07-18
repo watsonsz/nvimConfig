@@ -17,5 +17,6 @@ Still need to set up debugging and project creation
 # Installation
 ## Omnisharp
 ## Telescope Live Grep
-In order to get live grep working on windows, you will need to install 'ripgrep' onto your machine https://github.com/BurntSushi/ripgrep.
+- In order to get live grep working on windows, you will need to install 'ripgrep' onto your machine https://github.com/BurntSushi/ripgrep.
+- You will need to install Omnisharp and in mason.lua, line 30, type the path to your Omnisharp.exe file. 
 

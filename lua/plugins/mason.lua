@@ -27,7 +27,7 @@ return
         local capabilities = require('cmp_nvim_lsp').default_capabilities()
       local lspconfig = require("lspconfig")
       local pid = vim.fn.getpid()
-      local omnisharp_bin = "/mnt/c/Users/Xxmoz/AppData/Local/omnisharp-vim/omnisharp-rosly/OmniSharp.exe"
+      local omnisharp_bin = "C:/ProgramData/chocolatey/lib/omnisharp/tools/OmniSharp.exe"
       lspconfig.lua_ls.setup({
         capabilities = capabilities
         })
