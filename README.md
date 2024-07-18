@@ -14,3 +14,8 @@ A neovim distribution designed around developing in .NET and C# code.
 <!---
 Still need to set up debugging and project creation
 --->
+# Installation
+## Omnisharp
+## Telescope Live Grep
+In order to get live grep working on windows, you will need to install 'ripgrep' onto your machine https://github.com/BurntSushi/ripgrep.
+

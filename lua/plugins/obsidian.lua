@@ -17,7 +17,7 @@ return {
     -- see below for full list of optional dependencies 👇
   },
   opts = {
-    dir = "~/text_files/obsidian",
+    dir = "C:/Users/zack.watson/Documents/obsidian",
     completion = {
       -- Set to false to disable completion.
       nvim_cmp = true,
