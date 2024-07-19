@@ -1,6 +1,6 @@
 # .NetVim
 A neovim distribution designed around developing in .NET and C# code.
-
+![dashboard](images/netvim_dash.png)
 # Plugins
 - Treesitter
 - Telescope, Telescope-ui-select
